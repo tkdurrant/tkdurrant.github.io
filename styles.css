@@ -116,7 +116,7 @@ h1 {
 	font-size:2.4em;
 }
 h2 {
-	color:#f3f3f3;
+	color:#c2c2c2;
 	font-size:1.8em;
 	font-weight:bold;
 	padding:0 0 5px;
@@ -216,6 +216,8 @@ section#content {
 aside#sidebar {
 	width:300px;
 	position: fixed;
+	font-weight:bold;
+	text-align: center;
 }
 nav#mainnav ul {
 	padding: 0;
